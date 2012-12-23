@@ -40,7 +40,7 @@ Anyway this is my prefered method
 ## So just to confirm I changed my repo to test
 
      bash% git remote rm  origin 
-     bash% git remote add origin https://github.com/classnote/test2.git
+     bash% git remote add origin ssh://github.com/classnote/test2.git
      bash% echo " ." >> README.md
      bash% git commit -m "yeah, so there" *
      bash% git push -u origin master
