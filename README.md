@@ -41,8 +41,13 @@ Anyway this is my prefered method
 
      bash% git remote rm  origin 
      bash% git remote add origin https://github.com/classnote/test2.git
+     bash% echo " ." >> README.md
+     bash% git commit -m "yeah, so there" *
+     bash% git push -u origin master
+
      
      Warning: untrusted X11 forwarding setup failed: xauth key data not generated
      Warning: No xauth data; using fake authentication data for X11 forwarding.
      ERROR: Repository not found.
      fatal: The remote end hung up unexpectedly
+ .
