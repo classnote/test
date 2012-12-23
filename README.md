@@ -35,3 +35,14 @@ WTF? FWTF? sure I did something wrong but, it works now that I created it manual
 Anyway this is my prefered method 
 	
 	git remote add origin ssh://github.com/classnote/test.git
+
+
+## So just to confirm I changed my repo to test
+
+     bash% git remote rm  origin 
+     bash% git remote add origin https://github.com/classnote/test2.git
+     
+     Warning: untrusted X11 forwarding setup failed: xauth key data not generated
+     Warning: No xauth data; using fake authentication data for X11 forwarding.
+     ERROR: Repository not found.
+     fatal: The remote end hung up unexpectedly
