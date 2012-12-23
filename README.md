@@ -27,7 +27,7 @@ Tried SSH/HTTP git@ and classnote@ in all combinations EVERYTIME I got that erro
      
 So then I manually created the repo and it worked?  
 
-WTF? FWTF? sure I did something wrong but, it works not that I created it manually?
+WTF? FWTF? sure I did something wrong but, it works now that I created it manually?
      
    
      
